@@ -2,9 +2,11 @@
 
 I am a budding Software Developer in the UK having begun my journey in June '22. Having been a professional musician for 8 years, my interest was piqued in software and I have been fascinated ever since.
 
-![IMG_8192](https://user-images.githubusercontent.com/108416207/190124570-f894201c-cbc2-47c9-bd20-0c285f80bd69.JPG)
+![IMG_8192 cropped](https://user-images.githubusercontent.com/108416207/190125328-733b0b46-6a18-41e6-b28f-eacda4a86bfc.jpeg)
 
 With every aspect I learn, I find another 10 things I am amazed by and want to figure out how to make it work. The majority of my learning has been in Python, with a dabbling in a few other languages to see where I wanted to start.
+
+I am currently working my way through Angela Yu's 100 Days of Code on Udemy, an excellent resource that covers many facets of the software development world and has helped me to absorb and learn so much.
 
 <!--
 **JustMetalCake/JustMetalCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
