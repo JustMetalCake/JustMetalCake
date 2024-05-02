@@ -1,12 +1,13 @@
 ### Hi there 👋!
 
-I am a budding Software Developer in the UK having begun my journey in June '22. Having been a professional musician for 8 years, my interest was piqued in software and I have been fascinated ever since.
+I am a Junior Software Developer in the UK, having begun my learning journey in June '22 and started a full time role in Jan '23. 
+Having been a professional musician for almost a decade, my interest was piqued in software and I have been fascinated ever since.
 
 ![IMG_8192 cropped](https://user-images.githubusercontent.com/108416207/190125328-733b0b46-6a18-41e6-b28f-eacda4a86bfc.jpeg)
 
-With every aspect I learn, I find another 10 things I am amazed by and want to figure out how to make it work. The majority of my learning has been in Python, with a dabbling in a few other languages to see where I wanted to start.
+The main stack I use is Laravel, Vue & Tailwind, but also have experience with Alpine & Livewire. Recently I have been working with FilamentPHP which I have found to be flexible, powerful & has a great many features already built in which has shown care & consideration by the creators.
 
-I am currently working my way through Angela Yu's 100 Days of Code on Udemy, an excellent resource that covers many facets of the software development world and has helped me to absorb and learn so much.
+As I have been learning & using these technologies more, I am starting to get into open source contributions as I would like to share any niche uses & functionality that I think other users may benefit from. I appreciate every piece of feedback I get, so I can continue to improve & further my knowledge.
 
 <!--
 **JustMetalCake/JustMetalCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
