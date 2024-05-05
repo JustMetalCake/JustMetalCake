@@ -5,7 +5,7 @@ Having been a professional musician for almost a decade, my interest was piqued 
 
 ![IMG_8192 cropped](https://user-images.githubusercontent.com/108416207/190125328-733b0b46-6a18-41e6-b28f-eacda4a86bfc.jpeg)
 
-The main stack I use is Laravel, Vue & Tailwind, but also have experience with Alpine & Livewire. Recently I have been working with FilamentPHP which I have found to be flexible, powerful & has a great many features already built in which has shown care & consideration by the creators.
+The main stack I use is Laravel, Vue & Tailwind, but have also been gaining experience with Alpine & Livewire (to complete the TALL stack). Recently I have been working with FilamentPHP which I have found to be flexible, powerful & has a great many features already built in which has shown care & consideration by the creators.
 
 As I have been learning & using these technologies more, I am starting to get into open source contributions as I would like to share any niche uses & functionality that I think other users may benefit from. I appreciate every piece of feedback I get, so I can continue to improve & further my knowledge.
 
