@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I am a Junior Software Developer in the UK, having begun my learning journey in June '22 and started a full time role in Jan '23. 
+I am a Software Developer in the UK, having begun my learning journey in June '22 and started a full time role in Jan '23. 
 Having been a professional musician for almost a decade, my interest was piqued in software and I have been fascinated ever since.
 
 ![IMG_8192 cropped](https://user-images.githubusercontent.com/108416207/190125328-733b0b46-6a18-41e6-b28f-eacda4a86bfc.jpeg)
